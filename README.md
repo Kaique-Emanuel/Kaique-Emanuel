@@ -15,9 +15,9 @@ I also share knowledge and document my learning journey in **software developmen
 
 <p align="left">
   <a href="https://github.com/Kaique-Emanuel">
-    <img src="https://img.shields.io/badge/GitHub-Kaique-Emanuel-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-Kaique--Emanuel-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
   </a>
-  <a href="https://www.linkedin.com/in/kaique-emanuel-0b55273b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/kaique-emanuel-0b55273b8">
     <img src="https://img.shields.io/badge/LinkedIn-Kaique%20Emanuel-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
   </a>
   <a href="https://instagram.com/_kaiqu3s">
