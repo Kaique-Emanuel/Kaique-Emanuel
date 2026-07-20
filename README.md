@@ -1,7 +1,7 @@
 # Olá 👋, sou o Kaique Emanuel
 
 🎓 Estudante de **Engenharia de Software** (2º semestre) na UMC (Suzano/SP)
-💻 Aprendendo desenvolvimento backend com **Java** e automação com **Python**
+💻 dedicando meu tempo ao desenvolvimento backend com **Java** e automação com **Python**
 🇧🇷 Brasil
 
 Estou construindo minha base em desenvolvimento de software, com foco em backend, boas práticas de arquitetura e segurança. Documento meu aprendizado através de projetos práticos, buscando sempre entender o "porquê" por trás de cada decisão técnica, não só o "como".
@@ -46,15 +46,6 @@ Estou construindo minha base em desenvolvimento de software, com foco em backend
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaique-Emanuel&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-Emanuel&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
