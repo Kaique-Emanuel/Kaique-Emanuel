@@ -1,17 +1,14 @@
-# Hi 👋, I'm Kaique Emanuel
+# Olá 👋, sou o Kaique Emanuel
 
-🚀 **Software Engineering Student & Full Stack Developer**
-🎓 *UMC (Suzano) | Focusing on Distributed Systems and Scalable Architectures*
-🇧🇷 Brazil
+🎓 Estudante de **Engenharia de Software** na UMC (Suzano/SP)
+💻 Focado em desenvolvimento backend com **Java** e automação com **Python**
+🇧🇷 Brasil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.
-With an entrepreneurial background, I’m deeply focused on connecting **clean code, system performance, and business-driven solutions**.
-
-I also share knowledge and document my learning journey in **software development, SaaS architecture, and tech entrepreneurship**.
+Estou construindo minha base em desenvolvimento de software, com foco em backend, boas práticas de arquitetura e segurança. Documento meu aprendizado através de projetos práticos, buscando sempre entender o "porquê" por trás de cada decisão técnica, não só o "como".
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/Kaique-Emanuel">
@@ -20,44 +17,40 @@ I also share knowledge and document my learning journey in **software developmen
   <a href="https://www.linkedin.com/in/kaique-emanuel-0b55273b8">
     <img src="https://img.shields.io/badge/LinkedIn-Kaique%20Emanuel-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
   </a>
-  <a href="https://instagram.com/_kaiqu3s">
-    <img src="https://img.shields.io/badge/Instagram-@_kaiqu3s-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile"/>
-  </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Sobre mim
 
-- 🎓 Currently studying **Software Engineering** at UMC.
-- 💻 Developing expertise in **Java** and **Python**, with a focus on backend efficiency.
-- ⚡ Interested in system architecture, performance optimization, and how tech drives business growth.
+- 🎓 Cursando **Engenharia de Software** na UMC
+- 💻 Desenvolvendo experiência prática com **Java** (Spring Boot, Spring Security, JPA) e **Python** (automação e scripting)
+- 🐧 Uso Linux (Zorin OS) no dia a dia de desenvolvimento
+- 🔍 Interessado em arquitetura de sistemas, segurança de aplicações e boas práticas de backend
 
 ---
-## 🛠️ Tech Stack & Skills
 
-### Core Languages & Ecosystems
+## 🚀 Projeto em destaque
+
+**[crud-api](https://github.com/Kaique-Emanuel/crud-api)** — Sistema de gestão de estoque e vendas construído com Spring Boot, Spring Security e MySQL. Inclui autenticação com controle de acesso por papel, registro de vendas com atualização transacional de estoque, exclusão segura de produtos (soft delete) e relatórios calculados com Java Streams.
+
+---
+
+## 🛠️ Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-### Frameworks, Tools & Databases
-
-<p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 💼 Business & Soft Skills
-*Business Mindset | Problem Solving | Project Management | E-commerce Operations*
-
 ---
-## 📊 GitHub Stats
+
+## 📊 Estatísticas do GitHub
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaique-Emanuel&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
@@ -66,10 +59,4 @@ I also share knowledge and document my learning journey in **software developmen
 
 ---
 
-## 🚀 Philosophy
-
-> _"Code is not just about solving problems. It's about building solutions that scale, last, and generate real, tangible value for businesses and users."_
-
----
-
-**⭐ If you like my work, consider starring a repository** **🤝 Always open to collaborations, partnerships, and discussing new ideas.**
+**Aberto a oportunidades de estágio e colaborações em projetos.**
