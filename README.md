@@ -1,7 +1,7 @@
 # Olá 👋, sou o Kaique Emanuel
 
-🎓 Estudante de **Engenharia de Software** na UMC (Suzano/SP)
-💻 Focado em desenvolvimento backend com **Java** e automação com **Python**
+🎓 Estudante de **Engenharia de Software** (2º semestre) na UMC (Suzano/SP)
+💻 Aprendendo desenvolvimento backend com **Java** e automação com **Python**
 🇧🇷 Brasil
 
 Estou construindo minha base em desenvolvimento de software, com foco em backend, boas práticas de arquitetura e segurança. Documento meu aprendizado através de projetos práticos, buscando sempre entender o "porquê" por trás de cada decisão técnica, não só o "como".
